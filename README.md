@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shukno-phool/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Shukno Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shukno-phool/) |
+| **Get License** | [Commercial Licensing for Shukno Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shukno-phool/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `cb649b4752bc4a981e47bb639f59d6c188adcbc81d465fe3542e14326b39ffb9` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
