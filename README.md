@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/shukno-phool/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Shukno Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shukno-phool/) |
+| **Get License** | [Get License For Shukno Phool](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/shukno-phool/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকার এই রাতে তোমায় কাছে পেতে চাই
+> তোমার ঐ চোখের নেশায় আমি হারিয়ে যাই
+> শুকনো ফুল ফুটবে আজ তোমার ছোঁয়ায় এসে
+> জড়িয়ে ধরো আমায় তুমি পাগল ভালোবেসে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
